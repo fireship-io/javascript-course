@@ -1,4 +1,4 @@
-// Given an array if integers, calculate the cumulative sum of the array
+// Given an array of integers, calculate the cumulative sum of the array
 
 // Solution 1
 // const sum = [1,3,5,7].reduce((acc, cur) => acc + cur, 0);
